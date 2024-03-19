@@ -1,2 +1,3 @@
 # .gitignore content
 .DS_Store
+main.sh
