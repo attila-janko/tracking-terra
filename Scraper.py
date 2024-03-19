@@ -6,6 +6,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 from time import sleep
+import re
+import datetime
+
 
 # Instantiate an Options object
 options = Options()
@@ -57,9 +60,28 @@ element = soup.find('p', class_='sc-bdvvtL glsYBK')
 
 print(element.text)
 
+# Close the browser
+driver.quit()
+
 # get the number before the / sign
 number = element.text.split('/')[0]
 
-#export the number to a file
-with open('number.txt', 'w') as file:
-    file.write(number)
+number_of_sold_tickets = number 
+
+# get the current date and time
+now = datetime.datetime.now()
+
+
+# Load the HTML template
+with open('index.html', 'r') as file:
+    html_content = file.read()
+
+# change line 28 from         <div class="number"> 4 </div> to the actual number of sold tickets
+html_content = re.sub(r'<div class="number">.*</div>', f'<div class="number">{number_of_sold_tickets}</div>', html_content)
+
+# change line 29 from         <div>legutolsó frissítés: 2023.03.18 21:27</div> to the actual date and time
+html_content = re.sub(r'<div>legutolsó frissítés: .*</div>', f'<div>legutolsó frissítés: {now.strftime("%Y.%m.%d %H:%M")}</div>', html_content)
+
+# Save the updated content to 'index.html'
+with open('index.html', 'w') as file:
+    file.write(html_content)
