@@ -17106,3 +17106,325 @@ and the repository exists.
 4 / 15
 error: insufficient permission for adding an object to repository database .git/objects
 fatal: failed to write commit object
+warning: in the working copy of 'cron.log', CRLF will be replaced by LF the next time Git touches it
+[main 13df31e] Automated commit
+ 2 files changed, 330 insertions(+), 1 deletion(-)
+error: src refspec master does not match any
+error: failed to push some refs to 'github.com:atti199/tracking-terra.git'
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1,shrink-to-fit=no,maximum-scale=1" name="viewport"/>
+  <title>
+   Cooltix Admin
+  </title>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-808833234&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script data-ads-env="prod" data-ads-portal-id="26321179" data-hsjs-env="prod" data-hsjs-hublet="eu1" data-hsjs-portal="26321179" data-loader="hs-scriptloader" id="hs-ads-pixel-26321179" src="https://js-eu1.hsadspixel.net/fb.js" type="text/javascript">
+  </script>
+  <script data-cookieconsent="ignore" data-hs-ignore="true" data-hsjs-env="prod" data-hsjs-hublet="eu1" data-hsjs-portal="26321179" data-loader="hs-scriptloader" id="cookieBanner-26321179" src="https://js-eu1.hs-banner.com/v2/26321179/banner.js" type="text/javascript">
+  </script>
+  <script id="hs-analytics" src="https://js-eu1.hs-analytics.net/analytics/1710835500000/26321179.js" type="text/javascript">
+  </script>
+  <script async="" src="https://connect.facebook.net/signals/config/554037545191864?v=2.9.150&amp;r=stable&amp;domain=admin.cooltix.hu&amp;hme=8b8eb2472f555e54a8b57f2b720f9bd3b1bc6aed031525376dd772ba51107995&amp;ex_m=63%2C107%2C95%2C99%2C54%2C3%2C89%2C62%2C14%2C87%2C80%2C45%2C47%2C153%2C156%2C167%2C163%2C164%2C166%2C26%2C90%2C46%2C69%2C165%2C148%2C151%2C160%2C161%2C168%2C116%2C13%2C44%2C172%2C171%2C118%2C16%2C30%2C33%2C1%2C37%2C58%2C59%2C60%2C64%2C84%2C15%2C12%2C86%2C83%2C82%2C96%2C98%2C32%2C97%2C27%2C23%2C149%2C152%2C125%2C25%2C9%2C10%2C11%2C5%2C6%2C22%2C19%2C20%2C50%2C55%2C57%2C67%2C91%2C24%2C68%2C8%2C7%2C72%2C42%2C18%2C93%2C92%2C17%2C74%2C79%2C41%2C40%2C78%2C34%2C36%2C77%2C49%2C75%2C29%2C38%2C66%2C0%2C85%2C4%2C81%2C73%2C76%2C2%2C31%2C56%2C35%2C94%2C39%2C71%2C61%2C100%2C53%2C52%2C28%2C88%2C51%2C48%2C43%2C70%2C65%2C21%2C101">
+  </script>
+  <script async="" src="https://connect.facebook.net/en_US/fbevents.js">
+  </script>
+  <script async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js" type="text/javascript">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DP3J86D0BB&amp;l=dataLayer&amp;cx=c" type="text/javascript">
+  </script>
+  <script id="facebook-jssdk" src="https://connect.facebook.net/hu_HU/sdk/xfbml.customerchat.js#xfbml=1&amp;version=v2.12&amp;autoLogAppEvents=1">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PKDRKQ8">
+  </script>
+  <script>
+   !function(e,t,a,n,g){e[n]=e[n]||[],e[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var m=t.getElementsByTagName(a)[0],r=t.createElement(a);r.async=!0,r.src="https://www.googletagmanager.com/gtm.js?id=GTM-PKDRKQ8",m.parentNode.insertBefore(r,m)}(window,document,"script","dataLayer")
+  </script>
+  <link href="/fonts/fonts.css" rel="stylesheet"/>
+  <link href="/static/css/2.79263453.chunk.css" rel="stylesheet"/>
+  <link href="/static/css/main.0684fe86.chunk.css" rel="stylesheet"/>
+  <style id="_goober">
+   @keyframes go2264125279{from{transform:scale(0) rotate(45deg);opacity:0;}to{transform:scale(1) rotate(45deg);opacity:1;}}@keyframes go3020080000{from{transform:scale(0);opacity:0;}to{transform:scale(1);opacity:1;}}@keyframes go463499852{from{transform:scale(0) rotate(90deg);opacity:0;}to{transform:scale(1) rotate(90deg);opacity:1;}}@keyframes go1268368563{from{transform:rotate(0deg);}to{transform:rotate(360deg);}}@keyframes go1310225428{from{transform:scale(0) rotate(45deg);opacity:0;}to{transform:scale(1) rotate(45deg);opacity:1;}}@keyframes go651618207{0%{height:0;width:0;opacity:0;}40%{height:0;width:6px;opacity:1;}100%{opacity:1;height:10px;}}@keyframes go901347462{from{transform:scale(0.6);opacity:0.4;}to{transform:scale(1);opacity:1;}}.go4109123758{z-index:9999;}.go4109123758 > *{pointer-events:auto;}
+  </style>
+  <style>
+  </style>
+  <style data-styled="active" data-styled-version="5.3.3">
+  </style>
+  <style data-emotion="css">
+  </style>
+  <script async="" src="https://tracking.g2crowd.com/attribution_tracking/conversions/1010083.js?p=https://admin.cooltix.hu/&amp;e=" type="application/javascript">
+  </script>
+  <style data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe" type="text/css">
+   .fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}
+  </style>
+  <meta content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9" http-equiv="origin-trial"/>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-808833234">
+  </script>
+ </head>
+ <body>
+  <div class="fb_reset" id="fb-root">
+   <div style="position: absolute; top: -10000px; width: 0px; height: 0px;">
+    <div>
+    </div>
+   </div>
+  </div>
+  <script>
+   !function(e,t,n){var o,s=e.getElementsByTagName(t)[0];e.getElementById(n)||((o=e.createElement(t)).id=n,o.src="https://connect.facebook.net/hu_HU/sdk/xfbml.customerchat.js#xfbml=1&version=v2.12&autoLogAppEvents=1",s.parentNode.insertBefore(o,s))}(document,"script","facebook-jssdk")
+  </script>
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PKDRKQ8" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <noscript>
+   Engedélyezze a JavaScript-et az oldal megtekintéséhez.
+  </noscript>
+  <div appname="" id="root">
+   <div class="sc-bdvvtL fVgzBE">
+    <div class="sc-bdvvtL erWHMm" height="80px">
+     <div class="sc-bdvvtL iCeYRn" height="80px">
+      <a class="sc-bdvvtL cMNegP" href="/">
+       <svg class="sc-bdvvtL gfIqEe" fill="none" font-size="1.5em" height="41" viewbox="0 0 125 41" width="125" xmlns="http://www.w3.org/2000/svg">
+        <path d="M19.5 3.3c4.17 0 8.34 1.58 11.46 4.33 6.66 5.82 7.54 16.2 1.97 23.16a16.9 16.9 0 01-12.84 6.3c-2.56 0-6.24-.7-9.12-4.03l-.95-1.1C3.12 23.9-.7 19.46 8.06 8.54c2.7-3.37 6.77-5.24 11.43-5.24zm0-2.34A16.6 16.6 0 006.33 7.08c-10.41 13-4.45 18.83 2.98 27.55a13.81 13.81 0 0010.77 4.84c5.33 0 10.9-2.64 14.52-7.18a19.36 19.36 0 00-2.25-26.46A19.65 19.65 0 0019.5.96z" fill="#0FF">
+        </path>
+        <path d="M21.04 40.83c-4.63 0-8.74-1.83-11.61-5.2l-.91-1.07c-7.09-8.28-12.7-14.77-2.1-28 6.52-8.17 19.18-8.8 27.63-1.4 8.06 7.08 9.12 19.69 2.38 28.12a20.1 20.1 0 01-15.11 7.58c-.07-.03-.18-.03-.28-.03zM20.48 2.3c-4.74 0-9.33 1.94-12.35 5.72-9.36 11.69-5.08 16.67 2.04 24.96l.94 1.1a12.82 12.82 0 0010.2 4.43 18.1 18.1 0 0013.44-6.74c5.93-7.48 4.98-18.59-2.14-24.82a18.4 18.4 0 00-12.13-4.65z" fill="#0D7FFF">
+        </path>
+        <path d="M20.09 40.2a14.6 14.6 0 01-11.33-5.09l-.91-1.06C.87 25.95-4.63 19.54 5.78 6.56c6.38-7.99 18.8-8.61 27.11-1.35 7.93 6.92 8.94 19.27 2.31 27.56a19.56 19.56 0 01-14.83 7.44h-.28zM19.56 1.7c-4.84 0-9.54 1.98-12.62 5.86-9.61 11.95-4.98 17.34 2 25.47l.9 1.1c2.6 3 6.32 4.62 10.5 4.58a18.4 18.4 0 0013.7-6.89c6.11-7.62 5.13-18.98-2.13-25.36A18.74 18.74 0 0019.56 1.7z" fill="#110223">
+        </path>
+        <path d="M13.99 20.2a6.1 6.1 0 015.96-6.13c1.44 0 2.73.48 3.75 1.32.39.33.46.92.18 1.36a.92.92 0 01-1.3.18 4.17 4.17 0 00-5.54.3c-.74.77-1.2 1.8-1.2 2.96 0 1.14.46 2.2 1.2 2.97.77.74 1.79 1.21 2.91 1.21 1.02 0 1.9-.33 2.63-.91a.95.95 0 011.3.18c.28.44.2 1.03-.18 1.36a5.81 5.81 0 01-3.75 1.31 6.12 6.12 0 01-5.96-6.12z" fill="#0FF">
+        </path>
+        <path d="M15.5 20.2a6.1 6.1 0 015.96-6.13c1.44 0 2.73.48 3.75 1.32.39.33.46.92.18 1.36a.92.92 0 01-1.3.18 4.17 4.17 0 00-5.54.3c-.74.77-1.2 1.8-1.2 2.96 0 1.14.46 2.2 1.2 2.97a4.12 4.12 0 005.54.3.95.95 0 011.3.18c.28.44.2 1.03-.18 1.36a5.81 5.81 0 01-3.75 1.31 6.14 6.14 0 01-5.96-6.12z" fill="#0D7FFF">
+        </path>
+        <path d="M14.76 20.2a6.1 6.1 0 015.96-6.13c1.44 0 2.74.48 3.75 1.32.39.33.46.92.18 1.36a.92.92 0 01-1.3.18 4.17 4.17 0 00-5.54.3c-.74.77-1.2 1.8-1.2 2.96 0 1.14.46 2.2 1.2 2.97.77.74 1.79 1.21 2.91 1.21 1.02 0 1.9-.33 2.63-.91a.95.95 0 011.3.18c.28.44.21 1.03-.18 1.36a5.81 5.81 0 01-3.75 1.31 6.1 6.1 0 01-5.96-6.12zM53.7 19.92a6 6 0 019.7-4.63c.4.33.47.9.17 1.32a.95.95 0 01-1.3.17 4.01 4.01 0 00-2.61-.9 4.3 4.3 0 00-2.92 1.19 4.06 4.06 0 000 5.7c.79.76 1.83 1.18 2.92 1.19.95.01 1.87-.3 2.61-.9a.98.98 0 011.3.18c.3.4.23.98-.16 1.31a5.97 5.97 0 01-9.7-4.63zM75.35 15.77a6.07 6.07 0 010 8.3 5.3 5.3 0 01-3.88 1.76c-1.5 0-2.95-.65-3.97-1.76a6.17 6.17 0 010-8.3 5.25 5.25 0 017.86 0zm-.21 4.15c0-1.07-.4-2.09-1.1-2.87a3.49 3.49 0 00-5.2 0 4.2 4.2 0 00-1.1 2.87 4.12 4.12 0 001.1 2.85 3.45 3.45 0 005.2 0c.71-.77 1.1-1.8 1.1-2.85zM88.97 15.77a6.07 6.07 0 010 8.3c-.99 1.1-2.4 1.74-3.87 1.76-1.5 0-2.95-.65-3.98-1.76a6.17 6.17 0 010-8.3 5.25 5.25 0 017.85 0zm-.2 4.15c0-1.07-.4-2.09-1.1-2.87a3.48 3.48 0 00-5.2 0 4.2 4.2 0 00-1.1 2.87 4.12 4.12 0 001.1 2.85 3.45 3.45 0 005.2 0 4.2 4.2 0 001.1-2.85zM93.73 24.92v-9.7c0-.5.4-.9.89-.9.5 0 .9.4.91.9V24h4.4a.9.9 0 010 1.82h-5.31a.9.9 0 01-.9-.89zM108.19 16.16h-2.57v8.76a.9.9 0 01-.26.65.89.89 0 01-1.27 0 .9.9 0 01-.26-.65v-8.76h-2.56a.9.9 0 01-.64-.27.92.92 0 01-.26-.65.9.9 0 01.26-.64c.17-.17.4-.26.64-.26h6.93c.49 0 .89.4.89.9s-.4.92-.9.92zM111.85 15.24a.9.9 0 01.26-.64.9.9 0 011.54.64v9.7c0 .5-.41.91-.9.91a.88.88 0 01-.64-.26.9.9 0 01-.26-.65v-9.7zM124.83 15.93l-3.08 4.23 3.08 4.26a.9.9 0 01-.2 1.25.9.9 0 01-.51.18.93.93 0 01-.73-.37l-2.73-3.8-2.74 3.8a.92.92 0 01-.71.37.84.84 0 01-.53-.18.9.9 0 01-.2-1.25l3.08-4.26-3.09-4.23a.9.9 0 01.21-1.25.84.84 0 011.24.2l2.74 3.77 2.73-3.78a.86.86 0 011.25-.2c.39.3.48.86.2 1.26z" fill="#000">
+        </path>
+       </svg>
+      </a>
+      <div class="sc-bdvvtL iMrYfB">
+       <div class="css-2b097c-container">
+        <div class="sc-bdvvtL bMuZtt">
+         <div class="sc-bdvvtL gISmGN">
+          <div class="sc-bdvvtL cxcYjn">
+           Search events
+          </div>
+          <div class="sc-bdvvtL fMhjWs">
+           <div class="css-16p966j">
+            <div class="" style="display: inline-block;">
+             <input aria-autocomplete="list" autocapitalize="none" autocomplete="off" autocorrect="off" id="react-select-2-input" spellcheck="false" style="box-sizing: content-box; width: 2px; background: 0px center; border: 0px; font-size: inherit; opacity: 1; outline: 0px; padding: 0px; color: inherit;" tabindex="0" type="text" value=""/>
+             <div style="position: absolute; top: 0px; left: 0px; visibility: hidden; height: 0px; overflow: scroll; white-space: pre; font-size: 15px; font-family: Arial; font-weight: 400; font-style: normal; letter-spacing: normal; text-transform: none;">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="css-1wy0on6">
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="sc-bdvvtL TWWce">
+       <div class="sc-bdvvtL fVgzBE">
+        <div class="sc-bdvvtL fVgzBE">
+         <button class="sc-bdvvtL dbOMam" color="defaultButton" font-size="20" font-weight="500" type="button">
+          <svg class="sc-bdvvtL cvvAfe" fill="none" font-size="inherit" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+           <circle cx="12.2" cy="6.2" fill="currentColor" r="2.2">
+           </circle>
+           <circle cx="12.2" cy="12.5" fill="currentColor" r="2.2">
+           </circle>
+           <circle cx="12.2" cy="18.8" fill="currentColor" r="2.2">
+           </circle>
+          </svg>
+         </button>
+         <button class="sc-bdvvtL ExHLh" font-weight="500" scale="buttons.text" type="button">
+          <div class="sc-bdvvtL iYkkEF">
+           Help
+          </div>
+         </button>
+        </div>
+       </div>
+       <div class="sc-bdvvtL fJLRuK">
+        <button class="sc-bdvvtL hwZSDK">
+         <div class="sc-bdvvtL fUclPe">
+          ST
+         </div>
+        </button>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="sc-bdvvtL daodST">
+     <div>
+      <div class="sc-bdvvtL fOWPfj">
+       <div class="sc-bdvvtL VjICk">
+        <a border="none" class="sc-bdvvtL eOqvnf" href="/" minwidth="50px">
+         Events
+        </a>
+        <a border="none" class="sc-bdvvtL fBNeTE" href="/sales-users" minwidth="50px">
+         Sales users
+        </a>
+        <a border="none" class="sc-bdvvtL fBNeTE" href="/apps" minwidth="50px">
+         Apps
+        </a>
+       </div>
+       <div class="sc-iUKqMP bubaJR">
+        <div class="sc-bdvvtL bLMuOK">
+         <button class="sc-bdvvtL hmXFOA" type="button">
+          <svg class="sc-bdvvtL esqVGb" color="primary" fill="none" font-size="1.5em" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+           <line x1="3" x2="21" y1="12" y2="12">
+           </line>
+           <line x1="3" x2="21" y1="6" y2="6">
+           </line>
+           <line x1="3" x2="21" y1="18" y2="18">
+           </line>
+          </svg>
+         </button>
+         <h1 class="sc-bdvvtL jSmaxY" font-size="3,5" font-weight="500" scale="textStyles">
+          Your events
+         </h1>
+        </div>
+        <div class="sc-iAKWXU eojXkT">
+         <a class="sc-bdvvtL datxgS" href="/events/create" scale="buttons.contained" sx="[object Object]">
+          <div class="sc-bdvvtL iYkkEF">
+           Create Event
+          </div>
+         </a>
+        </div>
+       </div>
+       <div class="sc-jObWnj gQOmcs">
+        <div class="sc-dPiLbb dvATLT">
+         <div class="sc-bdvvtL fVgzBE">
+          <button class="sc-bdvvtL eOqvnf" value="LIVE">
+           Live
+          </button>
+          <button class="sc-bdvvtL fBNeTE" value="DRAFT">
+           Draft
+          </button>
+          <button class="sc-bdvvtL fBNeTE" value="PAST">
+           Past
+          </button>
+         </div>
+         <div class="sc-bBHHxi dKkhKY">
+          <div class="sc-cNKqjZ cVmtjm">
+           <div class="sc-AjmGg ClHLn">
+            Show filters
+           </div>
+           <div class="sc-khQegj NmEse">
+            <svg class="sc-bdvvtL gvkUeF" fill="none" font-size="1.5em" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+             <path d="M4 8l8 8 8-8" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+             </path>
+            </svg>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="sc-hUpaCq diIxEG">
+         <div class="sc-bdvvtL fVgzBE">
+          <button class="sc-bdvvtL cURgme sc-cTAqQK dBjtRs" value="ALL">
+           All event
+          </button>
+          <button class="sc-bdvvtL gQQqYh sc-cTAqQK dBjtRs" value="OFFER">
+           Continuous events
+          </button>
+          <button class="sc-bdvvtL gQQqYh sc-cTAqQK dBjtRs" value="EVENT">
+           One-time events
+          </button>
+         </div>
+        </div>
+       </div>
+       <div class="sc-bdvvtL fVgzBE">
+        <div class="sc-bdvvtL gRGXCj">
+         <div class="sc-bdvvtL fVgzBE">
+          <div class="sc-bdvvtL PdlAP">
+           <a class="sc-bdvvtL jfOrI" href="/events/65f6d56eb512f74857fc0eb8" title="Terra Kontra X Pavilon Fesztivál">
+            <div class="sc-bdvvtL jwMnGI">
+             <div class="sc-jJoQJp cCdszu">
+              <div class="sc-cxpSdN jMjFyn">
+               <div class="sc-iwjdpV fpNqIm">
+                Jul. 18
+                <div class="sc-bBHxTw gvggUK">
+                 July 18, 2024 2:00 PM
+                </div>
+               </div>
+              </div>
+              <div class="sc-cCcXHH hRawtN">
+              </div>
+             </div>
+             <div class="sc-hiCibw PTZYS">
+              <div class="sc-cidDSM eozXvb">
+               Terra Kontra X Pavilon Fesztivál
+              </div>
+             </div>
+             <div class="sc-gWXbKe gcduoq">
+              <div class="sc-bYoBSM kpagFj">
+               <div class="sc-bdvvtL fWMFmH" width="100%">
+                <div class="sc-kfPuZi dGgccp">
+                 <p class="sc-bdvvtL glsYBK" scale="textStyles">
+                  4 /
+                  <span class="sc-fKVqWL eojKBx">
+                   15
+                  </span>
+                 </p>
+                 <p class="sc-bdvvtL fjNeZK" scale="textStyles">
+                  27%
+                 </p>
+                </div>
+                <div class="sc-bdvvtL bzHdAg">
+                 <div class="sc-bdvvtL gSRScM">
+                 </div>
+                </div>
+               </div>
+              </div>
+              <div class="sc-jcFjpl ewXgfe">
+               HUF 71,600
+              </div>
+             </div>
+            </div>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAawBZgjfdeb_qMcnPzTPiQmcaZPsPv2LE&amp;libraries=places" type="text/javascript">
+  </script>
+  <script>
+   !function(c){function e(e){for(var r,t,n=e[0],o=e[1],u=e[2],i=0,a=[];i<n.length;i++)t=n[i],f[t]&&a.push(f[t][0]),f[t]=0;for(r in o)Object.prototype.hasOwnProperty.call(o,r)&&(c[r]=o[r]);for(d&&d(e);a.length;)a.shift()();return p.push.apply(p,u||[]),l()}function l(){for(var e,r=0;r<p.length;r++){for(var t=p[r],n=!0,o=1;o<t.length;o++){var u=t[o];0!==f[u]&&(n=!1)}n&&(p.splice(r--,1),e=s(s.s=t[0]))}return e}var t={},f={1:0},p=[];function s(e){if(t[e])return t[e].exports;var r=t[e]={i:e,l:!1,exports:{}};return c[e].call(r.exports,r,r.exports,s),r.l=!0,r.exports}s.e=function(u){var e=[],t=f[u];if(0!==t)if(t)e.push(t[2]);else{var r=new Promise(function(e,r){t=f[u]=[e,r]});e.push(t[2]=r);var n,i=document.createElement("script");i.charset="utf-8",i.timeout=120,s.nc&&i.setAttribute("nonce",s.nc),i.src=s.p+"static/js/"+({}[u]||u)+"."+{3:"de551496",4:"39efae1a"}[u]+".chunk.js",n=function(e){i.onerror=i.onload=null,clearTimeout(a);var r=f[u];if(0!==r){if(r){var t=e&&("load"===e.type?"missing":e.type),n=e&&e.target&&e.target.src,o=new Error("Loading chunk "+u+" failed.\n("+t+": "+n+")");o.type=t,o.request=n,r[1](o)}f[u]=void 0}};var a=setTimeout(function(){n({type:"timeout",target:i})},12e4);i.onerror=i.onload=n,document.head.appendChild(i)}return Promise.all(e)},s.m=c,s.c=t,s.d=function(e,r,t){s.o(e,r)||Object.defineProperty(e,r,{enumerable:!0,get:t})},s.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},s.t=function(r,e){if(1&e&&(r=s(r)),8&e)return r;if(4&e&&"object"==typeof r&&r&&r.__esModule)return r;var t=Object.create(null);if(s.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:r}),2&e&&"string"!=typeof r)for(var n in r)s.d(t,n,function(e){return r[e]}.bind(null,n));return t},s.n=function(e){var r=e&&e.__esModule?function(){return e.default}:function(){return e};return s.d(r,"a",r),r},s.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},s.p="/",s.oe=function(e){throw console.error(e),e};var r=window.webpackJsonp=window.webpackJsonp||[],n=r.push.bind(r);r.push=e,r=r.slice();for(var o=0;o<r.length;o++)e(r[o]);var d=n;l()}([])
+  </script>
+  <script src="/static/js/2.bfc651f3.chunk.js">
+  </script>
+  <script src="/static/js/main.97a77095.chunk.js">
+  </script>
+  <meta content="xsTUlv4jzJRjXsk2vPpcUclv_Xx0wSsnlmKQRHC2o7U" name="google-site-verification"/>
+  <script id="" type="text/javascript">
+   !function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","554037545191864");fbq("track","PageView");
+  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=554037545191864&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <meta content="e4tb7dgl2ew1caetidusx0j2baj8a0" name="facebook-domain-verification"/>
+  <meta content="9ti8qwjxabg9yy2rlkbm6gdstahgng" name="facebook-domain-verification"/>
+  <script id="hs-script-loader" src="//js-eu1.hs-scripts.com/26321179.js" type="text/javascript">
+  </script>
+  <script id="" type="text/javascript">
+   (function(d,e,f,b,c,a){c="";b="https://tracking.g2crowd.com/attribution_tracking/conversions/"+d+".js?p\x3d"+encodeURI(e)+"\x26e\x3d"+c;a=document.createElement("script");a.type="application/javascript";a.async=!0;a.src=b;f.getElementsByTagName("head")[0].appendChild(a)})("1010083",document.location.href,document);
+  </script>
+  <div class="sc-iCfMLu jvdNhc">
+  </div>
+ </body>
+</html>
+
+4 / 15
+[main 69f7071] Update sold tickets count and ignore .DS_Store
+ 1 file changed, 1 insertion(+), 1 deletion(-)
