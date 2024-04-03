@@ -1,3 +1,5 @@
 # .gitignore content
 .DS_Store
 main.sh
+creds.json
+creds2.json
