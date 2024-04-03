@@ -8,7 +8,8 @@ from bs4 import BeautifulSoup
 from time import sleep
 import re
 import datetime
-
+from google.oauth2.service_account import Credentials
+from googleapiclient.discovery import build
 
 # Instantiate an Options object
 options = Options()
@@ -40,7 +41,7 @@ sleep(2)
 driver.find_element(By.NAME, 'email').send_keys('tos.kop.aa@gmail.com'+ Keys.RETURN)
 sleep(2)
 
-driver.find_element(By.NAME, 'password').send_keys('c1gostekkes' + Keys.RETURN)
+driver.find_element(By.NAME, 'password').send_keys('tereda_0ffthemaps' + Keys.RETURN)
 
 # Wait for login to complete, you might need to add explicit waits here
 sleep(2) # Implicit wait, just for demonstration
@@ -58,7 +59,7 @@ print(soup.prettify())
 element = soup.find('p', class_='sc-bdvvtL glsYBK')
 
 
-print(element.text)
+
 
 # Close the browser
 driver.quit()
@@ -66,7 +67,62 @@ driver.quit()
 # get the number before the / sign
 number = element.text.split('/')[0]
 
-number_of_sold_tickets = number 
+
+
+# Hitelesítési adatok betöltése
+SERVICE_ACCOUNT_FILE = 'creds2.json'
+SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
+
+credentials = Credentials.from_service_account_file(
+        SERVICE_ACCOUNT_FILE, scopes=SCOPES)
+
+# A Google Sheets API inicializálása
+service = build('sheets', 'v4', credentials=credentials)
+
+# A Google Táblázat azonosítójának és az olvasni kívánt tartományok megadása
+spreadsheet_id = '1oPz0p-HIC_mpVTbgDUoB_p8xezHl3H_SUH_u2ILpZzs'
+range_name = 'Terra barik!G3' # Például 'Sheet1' munkalap A1 és A2 cellái közötti tartomány
+range_name_pavi = 'Pavi barik!G3' # Például 'Sheet1' munkalap A1 és A2 cellái közötti tartomány
+
+# Adatok kiolvasása
+sheet = service.spreadsheets()
+result = sheet.values().get(spreadsheetId=spreadsheet_id,
+                            range=range_name).execute()
+values = result.get('values', [])
+
+if not values:
+    print('Nincsenek adatok.')
+else:
+    for row in values:
+        # Nyomtasd ki a sorokat
+        print(row)
+
+terra = row[0]
+
+
+
+# Adatok kiolvasása
+sheet = service.spreadsheets()
+result = sheet.values().get(spreadsheetId=spreadsheet_id,
+                            range=range_name_pavi).execute()
+values = result.get('values', [])
+
+if not values:
+    print('Nincsenek adatok.')
+else:
+    for row in values:
+        # Nyomtasd ki a sorokat
+        print(row)
+
+pavi = row[0]
+
+
+tickets = pavi + terra
+
+
+number_of_sold_tickets = int(number) -1 + tickets
+
+
 
 # get the current date and time
 now = datetime.datetime.now()

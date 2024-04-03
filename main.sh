@@ -32,13 +32,7 @@ else
     echo "No changes to commit."
 fi
 
-#!/bin/bash
-export GIT_SSH_COMMAND="ssh -i /Users/atesz/Documents/tracking-terra/terra2 -o IdentitiesOnly=yes"
-cd /Users/atesz/Documents/tracking-terra/
-git add .
-git commit -m "Automated commit"
-git push origin master
 
 
-# Push changes to the main branch on origin
-git push origin main --force
+GIT_SSH_COMMAND="ssh -i ~/.ssh/id_rsa_cronjob -o IdentitiesOnly=yes" git push origin main --force
+
