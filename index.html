@@ -25,6 +25,7 @@
             margin: 20px 0;
         }
         .button {
+            position: relative; /* Tooltip pozicionálásához szükséges */
             display: inline-block;
             padding: 10px 20px;
             margin: 10px;
@@ -45,6 +46,27 @@
             box-shadow: 0 5px #666;
             transform: translateY(4px);
         }
+        .tooltip {
+            visibility: hidden;
+            width: 280px;
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 0;
+            position: absolute;
+            z-index: 1;
+            bottom: 100%;
+            left: 50%;
+            margin-left: -140px; /* A tooltip szélességének fele, hogy középen legyen */
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .button:hover .tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
     </style>
 </head>
 <body>
@@ -53,11 +75,19 @@
         <div class="number">22</div>
         <div>Összbevétel:</div>
         <div class="number2">407700 Ft</div>
-        <div>legutolsó frissítés: 2024.04.07 21:15</div>
+        <div>legutolsó frissítés: 2024.04.07 21:30</div>
         
-        <!-- Gombok, amelyek külső URL-re visznek -->
-        <a href="https://airtable.com/app5v2mbcLvzAPowR/shr039R1zHUXC3thP" class="button">Új költség</a>
+        <!-- Gomb Tooltip-pel -->
+        <a href="https://airtable.com/app5v2mbcLvzAPowR/shr039R1zHUXC3thP" class="button">Új költség
+            <span class="tooltip">Új költséget akkor kell bejelenteni, amikor a széfből ki szeretnél kérni pénzt, tehát nem új költségtervezetnél</span>
+        </a>
+        
         <a href="https://docs.google.com/spreadsheets/d/1oPz0p-HIC_mpVTbgDUoB_p8xezHl3H_SUH_u2ILpZzs/edit?usp=sharing" class="button">Új eladott spanbérlet</a>
+        
+        <!-- Google Drive logó, ami egy külső linkre visz -->
+        <a href="https://drive.google.com/drive/folders/1EpUYzjsdCudL3wRGH9_k9GK78Muuk9MW?usp=sharing" class="google-drive-logo">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Drive" style="width: 50px; height: auto;">
+        </a>
     </div>
 </body>
 </html>
