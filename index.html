@@ -67,6 +67,21 @@
             visibility: visible;
             opacity: 1;
         }
+        
+        .google-drive-link-container {
+            text-align: center; /* Középre igazítja a logót */
+            margin-top: 20px; /* A gombok és a logó közötti hely */
+        }
+
+        .google-drive-logo {
+            display: inline-block; /* Gondoskodik arról, hogy a link blokk helyett inline elem legyen */
+            margin: 0 auto; /* Automatikus margó, ami középre igazítja az elemet */
+        }
+
+        .google-drive-logo img {
+            width: 50px; /* A logó szélessége */
+            height: auto; /* A magasság automatikusan szabályozva van, hogy arányos maradjon */
+        }
     </style>
 </head>
 <body>
@@ -75,7 +90,7 @@
         <div class="number">22</div>
         <div>Összbevétel:</div>
         <div class="number2">407700 Ft</div>
-        <div>legutolsó frissítés: 2024.04.07 21:30</div>
+        <div>legutolsó frissítés: 2024.04.08 08:30</div>
         
         <!-- Gomb Tooltip-pel -->
         <a href="https://airtable.com/app5v2mbcLvzAPowR/shr039R1zHUXC3thP" class="button">Új költség
@@ -84,10 +99,12 @@
         
         <a href="https://docs.google.com/spreadsheets/d/1oPz0p-HIC_mpVTbgDUoB_p8xezHl3H_SUH_u2ILpZzs/edit?usp=sharing" class="button">Új eladott spanbérlet</a>
         
-        <!-- Google Drive logó, ami egy külső linkre visz -->
-        <a href="https://drive.google.com/drive/folders/1EpUYzjsdCudL3wRGH9_k9GK78Muuk9MW?usp=sharing" class="google-drive-logo">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Drive" style="width: 50px; height: auto;">
-        </a>
+        <!-- Új konténer a Google Drive logóhoz -->
+        <div class="google-drive-link-container">
+            <a href="https://drive.google.com/drive/folders/1EpUYzjsdCudL3wRGH9_k9GK78Muuk9MW?usp=sharing" class="google-drive-logo">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Drive">
+            </a>
+        </div>
     </div>
 </body>
 </html>
